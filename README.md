@@ -1,4 +1,4 @@
-# Liquirizia.FileSystemObject.Implements.AWS.S3
+# Liquirizia.FileSystemObject.Implements.FileSystem
 FileSystemObject Implementation of Liquirizia for FileSystem
 
 ## Sample
